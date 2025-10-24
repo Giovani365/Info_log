@@ -8,3 +8,6 @@ https://fatecspgov-my.sharepoint.com/personal/giovani_rocha4_fatec_sp_gov_br/Doc
 
 # Ativiadade 3 - análise de planilhas com PROCV 
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/giovani_rocha4_fatec_sp_gov_br/Documents/ATIVIDADE_NCM.xlsb%202.xlsb?d=w0db7a5f59bb74ce0a9b24c279b0ec02e&csf=1&web=1&e=sVeY3F
+
+# Atividade 4 - Power Bi EXP 2025
+https://fatecspgov-my.sharepoint.com/:u:/r/personal/giovani_rocha4_fatec_sp_gov_br/Documents/info-aula-BI.pbix?csf=1&web=1&e=DznORY
