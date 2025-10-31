@@ -19,3 +19,6 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/giovani_rocha4_fatec_sp_gov_
 https://fatecspgov-my.sharepoint.com/:u:/r/personal/giovani_rocha4_fatec_sp_gov_br/Documents/aula-BI.pbix?csf=1&web=1&e=nrztb3
 <img width="1428" height="801" alt="Captura de tela 2025-10-23 222636" src="https://github.com/user-attachments/assets/39874c08-acad-4a29-8566-b5186d289dc4" />
 
+# Atividade 5 - Power Bi Estados 
+https://fatecspgov-my.sharepoint.com/:u:/r/personal/giovani_rocha4_fatec_sp_gov_br/Documents/info-aula2.pbix?csf=1&web=1&e=oiV2YN
+<img width="1355" height="759" alt="Captura de tela 2025-10-30 220343" src="https://github.com/user-attachments/assets/8b26ab5f-6cf5-4991-a897-416195a70e77" />
