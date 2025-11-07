@@ -22,3 +22,13 @@ https://fatecspgov-my.sharepoint.com/:u:/r/personal/giovani_rocha4_fatec_sp_gov_
 # Atividade 5 - Power Bi Estados 
 https://fatecspgov-my.sharepoint.com/:u:/r/personal/giovani_rocha4_fatec_sp_gov_br/Documents/info-aula2.pbix?csf=1&web=1&e=oiV2YN
 <img width="1355" height="759" alt="Captura de tela 2025-10-30 220343" src="https://github.com/user-attachments/assets/8b26ab5f-6cf5-4991-a897-416195a70e77" />
+
+# Atividade 6 - IceCream 
+https://fatecspgov-my.sharepoint.com/personal/giovani_rocha4_fatec_sp_gov_br/Documents/Ice.Cream%20(2).xlsx?web=1
+<img width="1895" height="779" alt="Captura de tela 2025-11-07 200320" src="https://github.com/user-attachments/assets/0162a649-fd5a-4927-985e-0951f367f6a6" />
+<img width="1129" height="773" alt="Captura de tela 2025-11-07 194200" src="https://github.com/user-attachments/assets/012354a5-cb76-4153-942c-e651b7d01474" />
+
+# Atividade 7 - Salary Date
+https://fatecspgov-my.sharepoint.com/personal/giovani_rocha4_fatec_sp_gov_br/Documents/Ice.Cream%20(2).xlsx?web=1
+<img width="1577" height="775" alt="Captura de tela 2025-11-07 200810" src="https://github.com/user-attachments/assets/50d379d1-9d13-4882-ac39-fdcec4e14056" />
+<img width="1121" height="738" alt="Captura de tela 2025-11-07 201218" src="https://github.com/user-attachments/assets/89981f60-73ad-46c7-b7a3-1b4b7a7a1841" />
