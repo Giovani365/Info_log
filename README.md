@@ -25,7 +25,7 @@ https://fatecspgov-my.sharepoint.com/:u:/r/personal/giovani_rocha4_fatec_sp_gov_
 
 # Atividade 6 - IceCream 
 https://fatecspgov-my.sharepoint.com/personal/giovani_rocha4_fatec_sp_gov_br/Documents/Ice.Cream%20(2).xlsx?web=1
-<img width="1895" height="779" alt="Captura de tela 2025-11-07 200320" src="https://github.com/user-attachments/assets/0162a649-fd5a-4927-985e-0951f367f6a6" />
+<img width="1458" height="786" alt="Captura de tela 2025-11-28 192452" src="https://github.com/user-attachments/assets/449ef1aa-d464-4d5b-b353-233d3cf7d308" />
 <img width="1129" height="773" alt="Captura de tela 2025-11-07 194200" src="https://github.com/user-attachments/assets/012354a5-cb76-4153-942c-e651b7d01474" />
 
 # Atividade 7 - Salary Date
