@@ -32,3 +32,5 @@ https://fatecspgov-my.sharepoint.com/personal/giovani_rocha4_fatec_sp_gov_br/Doc
 https://fatecspgov-my.sharepoint.com/personal/giovani_rocha4_fatec_sp_gov_br/Documents/Ice.Cream%20(2).xlsx?web=1
 <img width="1577" height="775" alt="Captura de tela 2025-11-07 200810" src="https://github.com/user-attachments/assets/50d379d1-9d13-4882-ac39-fdcec4e14056" />
 <img width="1121" height="738" alt="Captura de tela 2025-11-07 201218" src="https://github.com/user-attachments/assets/89981f60-73ad-46c7-b7a3-1b4b7a7a1841" />
+
+# video pbi prova
